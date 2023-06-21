@@ -1,4 +1,4 @@
-netlify-weather.netlify.app
+https://netlify-weather.netlify.app
 
 # Getting Started with Create React App
 
